@@ -8,4 +8,7 @@ The script will create a "BatteryRuntime-Log" Subfolder in the folder where it i
 
 ## Notes on usage / Limitations
 Note that the script will probably only work (correctly) with notebooks that have a single battery. There might be OS limitations, i'm running it on Windows 11, but it should also work on recent Windows 10 installations.  
-The script might be called with the `-verbose` parameter from the shell to get some output for debugging puprose.
+The script might be called with the `-verbose` parameter from the shell to get some output for debugging purpose.  
+
+Have fun,
+Juergen
